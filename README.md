@@ -7,7 +7,7 @@ This Power BI dashboard tracks student progress and performance across Dare Care
 ## Key Features
 
 ### Page 1: Overall Performance Metrics
-![Overall Performance Metrics](data/overall_performance_metrics.png)
+![Overall Performance Metrics](Data/overall_performance_metrics.png)
 
 **Summary Cards:**
 - Total Learners: 140
