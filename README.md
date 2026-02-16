@@ -26,7 +26,7 @@ This Power BI dashboard tracks student progress and performance across Dare Care
 - Graduation Status
 
 ### Page 2: Detailed Learner Insights
-![Detailed Learner Insights](data/detailed_learner_insights.png)
+![Detailed Learner Insights](Data/detailed_learner_insights.png)
 
 **Learner-Level Metrics:**
 - Complete learner roster with email, track, and status
