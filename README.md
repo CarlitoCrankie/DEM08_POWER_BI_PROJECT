@@ -108,13 +108,12 @@ The dashboard is designed to handle future cohorts automatically:
 ---
 
 ## Files Included
-- `DEM08.pbix` - Power BI dashboard file
 - `overall_performance_metrics.png` - Page 1 screenshot
 - `detailed_learner_insights.png` - Page 2 screenshot
 - `README.md` - This documentation
 
 ## Usage
-1. Open `DEM08.pbix` in Power BI Desktop
+1. Open PowerBI Dashboard link in README
 2. Use slicers to filter by Track, Week, or Learner Status
 3. Click on individual learners in the table for detailed metrics
 4. Navigate between pages using the page navigator buttons
