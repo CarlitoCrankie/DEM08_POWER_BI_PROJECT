@@ -4,8 +4,8 @@
 ## Project Overview
 This Power BI dashboard tracks student progress and performance across Dare Careers' training programs in Power BI and AWS Cloud. The solution provides program managers and trainers with real-time insights into learner engagement, assessment scores, and completion outcomes.
 
-## Dashboard link
-(https://app.powerbi.com/groups/me/reports/867de886-23c7-4e18-984f-ce953c42e134/7d1fcd2df96387c9b3a5?experience=power-bi)
+## BI Dashboard
+![PowerBI Dashboard](https://app.powerbi.com/groups/me/reports/867de886-23c7-4e18-984f-ce953c42e134/7d1fcd2df96387c9b3a5?experience=power-bi)
 
 ## Key Features
 
